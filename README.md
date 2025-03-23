@@ -1,18 +1,18 @@
 # Projeto Agenda:
 
-<img src="../frontend/assets/img/1.png">
+<img src="./frontend/assets/img/1.png">
 
 ## Sobre
   Esta é uma aplicação WEB feita utilizando a bibliotecas Node.js; Express. Ela tem como objetivo armazenar e organizar contatos por: Nome, Sobrenome, Número e E-mail em um banco de dados MongoDB (que falaremos melhor sobre posteriormente). Feita utilizando um modelo de arquitetura MVC e CRUD completo, este projeto te permite organizar sua agenda melhor do que nunca.
 
-<img src="../frontend/assets/img/2.png">
+<img src="./frontend/assets/img/2.png">
 
   A fins de garantir a segurança dos seus dados, este serviço utiliza criptografia com hash, utilizando o framework [Bcrypt](https://www.npmjs.com/package/bcrypt). Para evitar ataques maliciosos, utilizamos também o framework [CSRF](https://www.npmjs.com/package/csrf).
 
 
 
-<img src="../frontend/assets/img/3.png">
-<img src="../frontend/assets/img/4.png">
+<img src="./frontend/assets/img/3.png">
+<img src="./frontend/assets/img/4.png">
 
 ---
 
