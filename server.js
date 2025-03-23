@@ -1,5 +1,5 @@
 require('dotenv').config();
-const express = require('express');
+   
 const app = express();
 
 const mongoose = require('mongoose'); //conecto com a base de dados
